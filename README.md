@@ -2,7 +2,7 @@
     Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Tom, FrontEnd developer from <img
+<p>Welcome to my page! </br> I'm Tom, Front-End developer from <img
         src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13" /> <b>Poland</b></p>
 <h3>Things I code with</h3>
 <h4>FrontEnd</h4>
