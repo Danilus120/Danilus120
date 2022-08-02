@@ -12,25 +12,25 @@
         src="https://img.shields.io/badge/-TypeScript-008BBC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Javascript"
         src="https://img.shields.io/badge/-ES2022-00AEBB?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-00CEA3?style=flat-square&logo=sass&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-92E783?style=flat-square&logo=html5&logoColor=white" />
 </p>
 <h4>Packages</h4>
 <p>
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-    <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify&logoColor=white" />
-    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-430098?style=flat-square&logo=firebase&logoColor=white" />
+    <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-B73263?style=flat-square&logo=apollo-graphql&logoColor=white" />
+    <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-8F417E?style=flat-square&logo=netlify&logoColor=white" />
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-5F4B83?style=flat-square&logo=firebase&logoColor=white" />
     <img alt="GraphQL"
-        src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+        src="https://img.shields.io/badge/-GraphQL-384D73?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 <h4>Others</h4>
 <p>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Brave browser"
-        src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+        src="https://img.shields.io/badge/-Brave_Browser-DC3B6A?style=flat-square&logo=brave&logoColor=white" />
     <img alt="Prettier"
-        src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+        src="https://img.shields.io/badge/-Prettier-AB478B?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
 
