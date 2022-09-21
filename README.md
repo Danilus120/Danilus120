@@ -13,9 +13,9 @@
     <img alt="Javascript"
         src="https://img.shields.io/badge/-ES2022-00AEBB?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-00bba2?style=flat-square&logo=Next.js&logoColor=white" />
-<img alt="Jest" src="https://img.shields.io/badge/-Jest-944058?style=flat-square&logo=Jest&logoColor=white" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-00CEA3?style=flat-square&logo=sass&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-92E783?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="Jest" src="https://img.shields.io/badge/-Jest-944058?style=flat-square&logo=Jest&logoColor=white" />
 </p>
 <h4>Packages</h4>
 <p>
