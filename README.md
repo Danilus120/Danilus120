@@ -4,8 +4,7 @@
 
 <p>Welcome to my page! </br> I'm Tom, Front-End developer from <img
         src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13" /> <b>Poland</b></p>
-<h3>Currently working on:</h3>
-<h4>ExpensesApp - Next.js, Typescript, Firebase</h4>
+<h3>Currently working on: ExpensesApp - Next.js, Typescript, Firebase</h3>
 <h3>Things I code with</h3>
 <h4>FrontEnd</h4>
 <p>
