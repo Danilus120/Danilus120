@@ -5,7 +5,7 @@
 
 <p>Welcome to my github! </br> I'm Tom, Junior Front-End developer from <img
         src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13" /> <b>Poland</b></p>
-<h3>Currently working on: ExpensesApp - Next.js, Typescript, Firebase</h3>
+<h3>Currently: Looking for job</h3>
 <h3>Skills</h3>
 <p>
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
