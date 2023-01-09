@@ -40,4 +40,4 @@
 ---
 
 [![AB's github stats](https://github-readme-stats.vercel.app/api?username=danilus120&count_private=true&show_icons=true&theme=gotham&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vomarchuk&layout=compact&langs_count=10&theme=algolia](https://github-readme-stats.vercel.app/api/top-langs/?username=danilus120&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilus120&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
