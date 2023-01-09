@@ -28,6 +28,7 @@
 </p>
 
 ---
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/Danilus120" target="_blank"><img alt="Github"
@@ -35,6 +36,8 @@
     <a href="https://www.linkedin.com/in/tomaszdanilczuk/" target="_blank"><img alt="LinkedIn"
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 ---
+
 [![AB's github stats]([https://github-readme-stats.vercel.app/api?username=vomarchuk&count_private=true&show_icons=true&theme=algolia](https://github-readme-stats.vercel.app/api?username=danilus120&count_private=true&show_icons=true&theme=gotham&hide=prs,issues))](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=vomarchuk&layout=compact&langs_count=10&theme=algolia](https://github-readme-stats.vercel.app/api/top-langs/?username=danilus120&layout=compact&langs_count=10&theme=gotham))](https://github.com/anuraghazra/github-readme-stats)
