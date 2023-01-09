@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=268F77&width=435&lines=Hi!;Welcome+to+my+github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=38D2AF&width=435&lines=Hi!;Welcome+to+my+github+profile)](https://git.io/typing-svg)
 
 
 <h3 align="center">I am currently looking for a job as Junior React Developer with Typescript</h3>
